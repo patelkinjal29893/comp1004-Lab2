@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Comp1004_Assignment1
+namespace Comp1004_Assignment2_SharpAutoCenter
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Comp1004_Assignment1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new SharpAutoForm());
         }
     }
 }

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Comp1004_Assignment1.Properties
+namespace Comp1004_Assignment2_SharpAutoCenter.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Comp1004_Assignment1.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Comp1004_Assignment1.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Comp1004_Assignment2_SharpAutoCenter.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

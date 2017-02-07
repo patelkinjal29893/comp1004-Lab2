@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Comp1004_Assignment1.Properties
+namespace Comp1004_Assignment2_SharpAutoCenter.Properties
 {
 
 
